@@ -1,8 +1,34 @@
 {
-  "posts": [
+  "swiperList": [
     {
       "id": 1,
-      "title": "hello"
+      "link": "/",
+      "imgSrc": "https://m.360buyimg.com/mobilecms/s750x366_jfs/t1/40496/22/1791/215523/5cc7ca20E0c48c1c8/75e564931ba0d8d8.jpg!cr_1125x549_0_72!q70.jpg.dpg"
+    },
+    {
+      "id": 2,
+      "link": "/",
+      "imgSrc": "https://m.360buyimg.com/mobilecms/s750x366_jfs/t1/40768/16/5014/195455/5ce8bd22E953e9124/1a80dff6ee24612e.jpg!cr_1125x549_0_72!q70.jpg.dpg"
+    },
+    {
+      "id": 3,
+      "link": "/",
+      "imgSrc": "https://imgcps.jd.com/ling4/47001399830/6KOZ5a2Q5ZOB57G76b2Q5YWo/6Laz5LiN5Ye65oi3/p-5c1361ed82acdd181dd7216b/10dc61d1/cr_1125x549_0_72/s1125x690/q70.jpg"
+    }
+  ],
+
+  "navList": [
+    {"id": 1, "title": "京东超市", "imgSrc": "https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/20983/16/10753/6124/5c8a16aaE5d6b15d7/01e0e818a7505267.png.webp"},
+    {"id": 2, "title": "京东家电", "imgSrc": "https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/9404/17/15339/4473/5c6fdeb9E665eea5c/893de1d0221540eb.png.webp"},
+    {"id": 3, "title": "京东服饰", "imgSrc": "https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/17169/3/4127/4611/5c2f35cfEd87b0dd5/65c0cdc1362635fc.png.webp"},
+    {"id": 4, "title": "京东生鲜", "imgSrc": "https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/27962/13/1445/4620/5c120b24Edd8c34fe/43ea8051bc50d939.png.webp"}
+  ],
+  
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     }
   ],
   "profile": {
