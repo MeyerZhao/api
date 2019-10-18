@@ -1,624 +1,992 @@
 {
-  "community": [
+  "economics": [
     {
-      "id": 5,
-      "county": [
-        "310000",
-        "310100",
-        "310105"
-      ],
-      "address": "整那满问为非九期列且正给规。",
-      "nhName": "刀茅巷社区",
-      "communityName": "马家弄小区",
-      "nhContact": "周军",
-      "nhPhone": "15836768560",
-      "propertyName": "彩虹物业",
-      "createTime": "1985-07-18 19:49:13"
+      "name": "财政总收入",
+      "value1": 132.08,
+      "unit1": "亿",
+      "value2": 6.67,
+      "unit2": "%"
     },
     {
-      "id": 6,
-      "county": "甘肃省 庆阳市 正宁县",
-      "address": "保使增起主影在第队情小们照日置听。",
-      "nhName": "小天竺社区",
-      "communityName": "知足弄小区",
-      "nhContact": "汤平",
-      "nhPhone": "15687152778",
-      "propertyName": "卓盛物业",
-      "createTime": "2008-10-20 05:02:20"
+      "name": "一般公共预算收入",
+      "value1": 69.07,
+      "unit1": "亿",
+      "value2": 3.21,
+      "unit2": "%"
     },
     {
-      "id": 7,
-      "county": "山西省 晋城市 其它区",
-      "address": "飞具列条电铁在历马快清效义如。",
-      "nhName": "小天竺社区",
-      "communityName": "红枫苑小区",
-      "nhContact": "贾明",
-      "nhPhone": "13152144616",
-      "propertyName": "万科物业",
-      "createTime": "2012-07-17 15:40:04"
+      "name": "实际利用外资",
+      "value1": 0.0473,
+      "unit1": "亿",
+      "value2": 504,
+      "unit2": "%"
+    }
+  ],
+  "economics_01": [
+    {
+      "name": "滨江区",
+      "value": 167,
+      "unit": "亿"
     },
     {
-      "id": 8,
-      "county": "重庆 重庆市 渝中区",
-      "address": "之局心问平论手商国般类华求方。",
-      "nhName": "艮山门社区",
-      "communityName": "建国公寓小区",
-      "nhContact": "汤强",
-      "nhPhone": "15970347622",
-      "propertyName": "南都物业",
-      "createTime": "1990-11-11 18:58:05"
+      "name": "拱墅区",
+      "value": 381,
+      "unit": "亿"
     },
     {
-      "id": 9,
-      "county": "河北省 唐山市 玉田县",
-      "address": "步别中设生果济究段并月水事路千接被。",
-      "nhName": "刀茅巷社区",
-      "communityName": "知足弄小区",
-      "nhContact": "许涛",
-      "nhPhone": "18347159763",
-      "propertyName": "卓盛物业",
-      "createTime": "2001-11-17 07:37:21"
+      "name": "下城区",
+      "value": 633,
+      "unit": "亿"
     },
     {
-      "id": 10,
-      "county": "宁夏回族自治区 中卫市 中宁县",
-      "address": "料报识因物世果往产车海记全样们。",
-      "nhName": "小天竺社区",
-      "communityName": "马家弄小区",
-      "nhContact": "江勇",
-      "nhPhone": "13589426484",
-      "propertyName": "万科物业",
-      "createTime": "1978-03-13 02:17:13"
+      "name": "上城区",
+      "value": 267,
+      "unit": "亿"
     },
     {
-      "id": 12,
-      "county": "浙江省 湖州市 德清县",
-      "address": "百水议铁示无力型后最光度出写车放。",
-      "nhName": "东园社区",
-      "communityName": "红枫苑小区",
-      "nhContact": "郝敏",
-      "nhPhone": "13131682600",
-      "propertyName": "万科物业",
-      "createTime": "1975-06-02 07:12:31"
+      "name": "西湖区",
+      "value": 444,
+      "unit": "亿"
     },
     {
-      "id": 13,
-      "county": "四川省 广元市 朝天区",
-      "address": "之离权何转七八对海研和数还。",
-      "nhName": "艮园社区",
-      "communityName": "潮鸣苑小区",
-      "nhContact": "贾秀兰",
-      "nhPhone": "18239358844",
-      "propertyName": "万科物业",
-      "createTime": "1981-08-01 00:31:14"
+      "name": "桐庐县",
+      "value": 112,
+      "unit": "亿"
     },
     {
-      "id": 14,
-      "county": "山西省 阳泉市 郊区",
-      "address": "能则强热须家极论连身理统空是中养代农。",
-      "nhName": "艮山门社区",
-      "communityName": "马家弄小区",
-      "nhContact": "康军",
-      "nhPhone": "15713562695",
-      "propertyName": "绿城物业",
-      "createTime": "2014-10-01 14:42:02"
+      "name": "临安区",
+      "value": 133,
+      "unit": "亿"
     },
     {
-      "id": 16,
-      "county": "澳门特别行政区 离岛 -",
-      "address": "车关理公存道南律因她增总林五品应。",
-      "nhName": "刀茅巷社区",
-      "communityName": "知足弄小区",
-      "nhContact": "余霞",
-      "nhPhone": "15743241141",
-      "propertyName": "盛全物业",
-      "createTime": "1985-01-11 23:44:55"
+      "name": "建德市",
+      "value": 94,
+      "unit": "亿"
     },
     {
-      "id": 17,
-      "county": "辽宁省 大连市 瓦房店市",
-      "address": "养层近改江置信细除儿角该处量。",
-      "nhName": "小天竺社区",
-      "communityName": "红枫苑小区",
-      "nhContact": "何涛",
-      "nhPhone": "18627569576",
-      "propertyName": "彩虹物业",
-      "createTime": "2015-02-11 04:01:25"
+      "name": "余杭区",
+      "value": 341,
+      "unit": "亿"
     },
     {
-      "id": 18,
-      "county": "四川省 南充市 南部县",
-      "address": "热车铁机例科影把和地大观示下土影民四。",
-      "nhName": "体东社区",
-      "communityName": "珠碧苑小区",
-      "nhContact": "萧杰",
-      "nhPhone": "15872965179",
-      "propertyName": "卓盛物业",
-      "createTime": "1970-08-23 21:50:14"
+      "name": "富阳区",
+      "value": 185,
+      "unit": "亿"
     },
     {
-      "id": 19,
-      "county": "浙江省 台州市 三门县",
-      "address": "厂业定实器接清么指六所速生府北联间度。",
-      "nhName": "所巷社区",
-      "communityName": "潮鸣苑小区",
-      "nhContact": "高芳",
-      "nhPhone": "13610658203",
-      "propertyName": "万科物业",
-      "createTime": "1992-07-18 17:05:41"
+      "name": "萧山区",
+      "value": 492,
+      "unit": "亿"
     },
     {
-      "id": 20,
-      "county": "西藏自治区 日喀则地区 昂仁县",
-      "address": "龙收共口打构因布真究军界采论。",
-      "nhName": "艮园社区",
-      "communityName": "红枫苑小区",
-      "nhContact": "潘秀兰",
-      "nhPhone": "15770004409",
-      "propertyName": "南都物业",
-      "createTime": "1999-10-27 22:44:36"
+      "name": "江干区",
+      "value": 342,
+      "unit": "亿"
     },
     {
-      "id": 22,
-      "county": "西藏自治区 日喀则地区 康马县",
-      "address": "调法放那象外名别指管色来思。",
-      "nhName": "所巷社区",
-      "communityName": "东园小区",
-      "nhContact": "马娟",
-      "nhPhone": "13285777762",
-      "propertyName": "万科物业",
-      "createTime": "2006-12-18 17:37:10"
+      "name": "淳安区",
+      "value": 64,
+      "unit": "亿"
+    }
+  ],
+  "economics_02": [
+    {
+      "name": "一月",
+      "value": 156143,
+      "unit": "万元"
     },
     {
-      "id": 23,
-      "county": "江西省 抚州市 黎川县",
-      "address": "各资处然世过里界长实却小火别原织。",
-      "nhName": "小天竺社区",
-      "communityName": "醋坊新村小区",
-      "nhContact": "黄军",
-      "nhPhone": "15217753868",
-      "propertyName": "彩虹物业",
-      "createTime": "1993-09-10 07:50:50"
+      "name": "二月",
+      "value": 77335,
+      "unit": "万元"
     },
     {
-      "id": 24,
-      "county": "新疆维吾尔自治区 和田地区 墨玉县",
-      "address": "目接况看部你义验验根老即论西动今后。",
-      "nhName": "体东社区",
-      "communityName": "建国公寓小区",
-      "nhContact": "孙强",
-      "nhPhone": "13168566561",
-      "propertyName": "彩虹物业",
-      "createTime": "1984-03-08 23:44:25"
+      "name": "三月",
+      "value": 71357,
+      "unit": "万元"
     },
     {
-      "id": 25,
-      "county": "香港特别行政区 香港岛 湾仔",
-      "address": "群容商来活制起许系手有许。",
-      "nhName": "艮山门社区",
-      "communityName": "建国公寓小区",
-      "nhContact": "许芳",
-      "nhPhone": "15377063910",
-      "propertyName": "绿城物业",
-      "createTime": "1987-09-28 09:45:49"
+      "name": "四月",
+      "value": 102163,
+      "unit": "万元"
     },
     {
-      "id": 26,
-      "county": "宁夏回族自治区 银川市 其它区",
-      "address": "具常如比由论马这什产月持自。",
-      "nhName": "东河社区",
-      "communityName": "东园小区",
-      "nhContact": "赵磊",
-      "nhPhone": "15321484336",
-      "propertyName": "万科物业",
-      "createTime": "2011-02-27 16:58:52"
+      "name": "五月",
+      "value": 84597,
+      "unit": "万元"
     },
     {
-      "id": 27,
-      "county": "江苏省 苏州市 吴江区",
-      "address": "历三观不南至在商向学压料细。",
-      "nhName": "小天竺社区",
-      "communityName": "马家弄小区",
-      "nhContact": "白娜",
-      "nhPhone": "15027528621",
-      "propertyName": "绿城物业",
-      "createTime": "2004-03-28 12:57:13"
+      "name": "六月",
+      "value": 88077,
+      "unit": "万元"
     },
     {
-      "id": 28,
-      "county": "贵州省 黔东南苗族侗族自治州 岑巩县",
-      "address": "外期标速已目边社话只角带空安之下。",
-      "nhName": "小天竺社区",
-      "communityName": "建国公寓小区",
-      "nhContact": "侯涛",
-      "nhPhone": "13171612806",
-      "propertyName": "南都物业",
-      "createTime": "2008-02-13 23:15:01"
+      "name": "七月",
+      "value": 65430,
+      "unit": "万元"
     },
     {
-      "id": 29,
-      "county": "天津 天津市 河北区",
-      "address": "是化由当报员统资开且高天单。",
-      "nhName": "小天竺社区",
-      "communityName": "红枫苑小区",
-      "nhContact": "阎秀英",
-      "nhPhone": "15318446213",
-      "propertyName": "绿城物业",
-      "createTime": "1976-10-08 19:58:11"
+      "name": "八月",
+      "value": 91140,
+      "unit": "万元"
+    }
+  ],
+  "economics_03": [
+    {
+      "name": "汇金金融产业平台（长庆）",
+      "value": 681212,
+      "unit": "万元"
     },
     {
-      "id": 30,
-      "county": "吉林省 四平市 双辽市",
-      "address": "特算毛龙铁物装所气温只资想。",
-      "nhName": "知足弄社区",
-      "communityName": "马家弄小区",
-      "nhContact": "贾霞",
-      "nhPhone": "15313153356",
-      "propertyName": "卓盛物业",
-      "createTime": "1986-05-20 09:29:43"
+      "name": "武林国际金融集聚区（武林）",
+      "value": 172105,
+      "unit": "万元"
     },
     {
-      "id": 31,
-      "county": "天津 天津市 东丽区",
-      "address": "务已常变精社六道积号知重外导求火全。",
-      "nhName": "东河社区",
-      "communityName": "建国公寓小区",
-      "nhContact": "姚静",
-      "nhPhone": "18558441127",
-      "propertyName": "开元物业",
-      "createTime": "1992-07-17 08:13:48"
+      "name": "电竞产业平台（石桥）",
+      "value": 161653,
+      "unit": "万元"
     },
     {
-      "id": 32,
-      "county": "浙江省 舟山市 嵊泗县",
-      "address": "非行石类价量据听阶国开号资经新。",
-      "nhName": "体东社区",
-      "communityName": "醋坊新村小区",
-      "nhContact": "苏秀英",
-      "nhPhone": "15726175322",
-      "propertyName": "绿城物业",
-      "createTime": "2012-01-24 11:12:19"
+      "name": "新天地综合体区块（东新）",
+      "value": 158037,
+      "unit": "万元"
     },
     {
-      "id": 55,
-      "county": "台湾 新竹市 其它区",
-      "address": "量场千运者支众四二眼断级压表者深都。",
-      "nhName": "东园社区",
-      "communityName": "红枫苑小区",
-      "nhContact": "蒋强",
-      "nhPhone": "13683236541",
-      "propertyName": "绿城物业",
-      "createTime": "2012-07-25 01:20:28"
+      "name": "杭氯北国际创新集聚区（文晖）",
+      "value": 151318,
+      "unit": "万元"
     },
     {
-      "id": 71,
-      "county": "内蒙古自治区 赤峰市 元宝山区",
-      "address": "带革能战从员济热级革千是命东队共。",
-      "nhName": "体东社区",
-      "communityName": "红枫苑小区",
-      "nhContact": "韩磊",
-      "nhPhone": "18378645756",
-      "propertyName": "万科物业",
-      "createTime": "1989-04-15 19:09:48"
+      "name": "西湖文化产业平台（朝晖）",
+      "value": 82460,
+      "unit": "万元"
     },
     {
-      "id": 72,
-      "county": "辽宁省 抚顺市 清原满族自治县",
-      "address": "而引存领王从月得第许划厂运部料管。",
-      "nhName": "体东社区",
-      "communityName": "知足弄小区",
-      "nhContact": "白平",
-      "nhPhone": "15472766307",
-      "propertyName": "万科物业",
-      "createTime": "2014-03-18 09:49:34"
+      "name": "维健健康产业平台（潮鸣）",
+      "value": 59632,
+      "unit": "万元"
     },
     {
-      "id": 73,
-      "county": "海外 海外 -",
-      "address": "正来并高文极少叫我报准主公八。",
-      "nhName": "体东社区",
-      "communityName": "潮鸣苑小区",
-      "nhContact": "文杰",
-      "nhPhone": "13424858810",
-      "propertyName": "卓盛物业",
-      "createTime": "1972-02-11 14:16:45"
+      "name": "武林商圈总部集聚区（天水）",
+      "value": 52264,
+      "unit": "万元"
     },
     {
-      "id": 74,
-      "county": "天津 天津市 和平区",
-      "address": "位律常图意专流中局热称果江。",
-      "nhName": "艮园社区",
-      "communityName": "马家弄小区",
-      "nhContact": "高敏",
-      "nhPhone": "15969163787",
-      "propertyName": "卓盛物业",
-      "createTime": "2018-10-14 10:08:51"
+      "name": "数字经济产业园",
+      "value": 50742,
+      "unit": "万元"
+    }
+  ],
+  "economics_04": [
+    {
+      "name": "第一名",
+      "value": "浙江英特药业有限公司"
     },
     {
-      "id": 75,
-      "county": "浙江省 衢州市 柯城区",
-      "address": "周究点局始据达件种领构层调口近。",
-      "nhName": "小天竺社区",
-      "communityName": "红枫苑小区",
-      "nhContact": "常静",
-      "nhPhone": "13768322480",
-      "propertyName": "盛全物业",
-      "createTime": "2002-12-23 10:52:02"
+      "name": "第二名",
+      "value": "杭州热联集团股份有限公司"
     },
     {
-      "id": 76,
-      "county": "北京 北京市 石景山区",
-      "address": "必任步经政命发石克立林八利布需高论。",
-      "nhName": "东河社区",
-      "communityName": "醋坊新村小区",
-      "nhContact": "龚敏",
-      "nhPhone": "18473666661",
-      "propertyName": "绿城物业",
-      "createTime": "1985-09-30 15:25:00"
+      "name": "第三名",
+      "value": "杭州汽轮机股份有限公司"
     },
     {
-      "id": 77,
-      "county": "新疆维吾尔自治区 吐鲁番地区 吐鲁番市",
-      "address": "务圆工元有育种新相对教市。",
-      "nhName": "艮山门社区",
-      "communityName": "建国公寓小区",
-      "nhContact": "吴霞",
-      "nhPhone": "18191572613",
-      "propertyName": "盛全物业",
-      "createTime": "2015-05-26 01:12:40"
+      "name": "第四名",
+      "value": "万向信托股份公司"
     },
     {
-      "id": 78,
-      "county": "江苏省 徐州市 铜山区",
-      "address": "回阶八场越明么着其建团路等运下们风收。",
-      "nhName": "东园社区",
-      "communityName": "马家弄小区",
-      "nhContact": "王平",
-      "nhPhone": "15251655907",
-      "propertyName": "卓盛物业",
-      "createTime": "2007-04-02 01:12:01"
+      "name": "第五名",
+      "value": "杭州大厦有限公司"
     },
     {
-      "id": 79,
-      "county": "广东省 深圳市 宝安区",
-      "address": "量战事离精发等题有及青快转道走难。",
-      "nhName": "体东社区",
-      "communityName": "马家弄小区",
-      "nhContact": "杨芳",
-      "nhPhone": "15855946632",
-      "propertyName": "绿城物业",
-      "createTime": "1972-03-28 07:01:02"
+      "name": "第六名",
+      "value": "杭州银泰百货有限公司"
     },
     {
-      "id": 80,
-      "county": "河南省 鹤壁市 鹤山区",
-      "address": "证你属精进且加维石意动资解年个。",
-      "nhName": "东河社区",
-      "communityName": "醋坊新村小区",
-      "nhContact": "邵洋",
-      "nhPhone": "13686526685",
-      "propertyName": "盛全物业",
-      "createTime": "1991-06-23 05:17:14"
+      "name": "第七名",
+      "value": "杭州浮云网络有限公司"
     },
     {
-      "id": 81,
-      "county": "辽宁省 沈阳市 大东区",
-      "address": "以开将选达全她风克条厂格该发。",
-      "nhName": "刀茅巷社区",
-      "communityName": "红枫苑小区",
-      "nhContact": "余明",
-      "nhPhone": "15508786377",
-      "propertyName": "南都物业",
-      "createTime": "1978-10-14 07:39:41"
+      "name": "第八名",
+      "value": "杭州利坤投资发展有限公司"
     },
     {
-      "id": 82,
-      "county": "四川省 眉山市 仁寿县",
-      "address": "拉应格住平机正县科信相积合向便。",
-      "nhName": "刀茅巷社区",
-      "communityName": "知足弄小区",
-      "nhContact": "冯杰",
-      "nhPhone": "15071637343",
-      "propertyName": "开元物业",
-      "createTime": "1976-10-28 00:48:24"
+      "name": "第九名",
+      "value": "杭州仟和网络科技有限公司"
     },
     {
-      "id": 83,
-      "county": "新疆维吾尔自治区 阿克苏地区 温宿县",
-      "address": "始儿劳圆前我节路不始受两地。",
-      "nhName": "艮山门社区",
-      "communityName": "东园小区",
-      "nhContact": "邱洋",
-      "nhPhone": "13251124008",
-      "propertyName": "绿城物业",
-      "createTime": "2015-02-19 20:56:57"
+      "name": "第十名",
+      "value": "杭州香江科技有限公司"
+    }
+  ],
+  "politics": [
+    {
+      "name": "跑零次实现率",
+      "value1": 0.9,
+      "value2": 1
     },
     {
-      "id": 84,
-      "county": "青海省 海东市 互助土族自治县",
-      "address": "张为政照必经张质准器由东始数。",
-      "nhName": "所巷社区",
-      "communityName": "马家弄小区",
-      "nhContact": "程秀兰",
-      "nhPhone": "18024781015",
-      "propertyName": "彩虹物业",
-      "createTime": "1982-01-10 11:17:58"
+      "name": "网上办实现率",
+      "value1": 1,
+      "value2": 1
     },
     {
-      "id": 85,
-      "county": "澳门特别行政区 澳门半岛 -",
-      "address": "任重压研克改值况适工起打证近提战断。",
-      "nhName": "艮山门社区",
-      "communityName": "知足弄小区",
-      "nhContact": "乔刚",
-      "nhPhone": "13161521668",
-      "propertyName": "万科物业",
-      "createTime": "1978-04-21 06:48:37"
+      "name": "一证通办实现率",
+      "value1": 1,
+      "value2": 1
     },
     {
-      "id": 86,
-      "county": "澳门特别行政区 澳门半岛 -",
-      "address": "至铁出转给基青风做油清况马以目世就。",
-      "nhName": "小天竺社区",
-      "communityName": "马家弄小区",
-      "nhContact": "郝秀兰",
-      "nhPhone": "18352882228",
-      "propertyName": "彩虹物业",
-      "createTime": "1977-06-22 01:11:31"
+      "name": "材料电子化比率",
+      "value1": 1,
+      "value2": 0.9969
     },
     {
-      "id": 87,
-      "county": "福建省 龙岩市 上杭县",
-      "address": "组传口元类际经样空手化类圆复水前压始。",
-      "nhName": "所巷社区",
-      "communityName": "马家弄小区",
-      "nhContact": "侯涛",
-      "nhPhone": "13764763223",
-      "propertyName": "开元物业",
-      "createTime": "1983-11-24 16:07:44"
+      "name": "承诺时限压缩比率",
+      "value1": 0.6,
+      "value2": 0.9917
     },
     {
-      "id": 88,
-      "county": "内蒙古自治区 乌海市 乌达区",
-      "address": "从位就例基斯解以才路与劳难。",
-      "nhName": "东河社区",
-      "communityName": "红枫苑小区",
-      "nhContact": "曹敏",
-      "nhPhone": "18749778031",
-      "propertyName": "卓盛物业",
-      "createTime": "2000-04-20 11:37:35"
+      "name": "掌上办实现率",
+      "value1": 0.8,
+      "value2": 0.9885
     },
     {
-      "id": 89,
-      "county": "宁夏回族自治区 中卫市 其它区",
-      "address": "出开酸深别目存也众市前些别所度。",
-      "nhName": "所巷社区",
-      "communityName": "珠碧苑小区",
-      "nhContact": "林军",
-      "nhPhone": "15536763281",
-      "propertyName": "开元物业",
-      "createTime": "2014-03-25 23:47:41"
+      "name": "即办事项比例",
+      "value1": 0.5,
+      "value2": 0.9824
+    }
+  ],
+  "politics_chart": [
+    {
+      "name": "年度实事项目完成情况",
+      "value1": 0.81,
+      "value2": 0.19,
+      "value3": 0
     },
     {
-      "id": 90,
-      "county": "江苏省 徐州市 云龙区",
-      "address": "增以的所持立派或张文记没习县须社。",
-      "nhName": "刀茅巷社区",
-      "communityName": "醋坊新村小区",
-      "nhContact": "康艳",
-      "nhPhone": "15278850173",
-      "propertyName": "彩虹物业",
-      "createTime": "2015-09-16 11:42:32"
+      "name": "年度市级任务完成情况",
+      "value1": 0.53,
+      "value2": 0.47,
+      "value3": 0
     },
     {
-      "id": 91,
-      "county": "吉林省 松原市 长岭县",
-      "address": "装时子历整适后制应国十并。",
-      "nhName": "东河社区",
-      "communityName": "红枫苑小区",
-      "nhContact": "谢明",
-      "nhPhone": "15755198746",
-      "propertyName": "万科物业",
-      "createTime": "2003-01-03 01:08:52"
+      "name": "年度人大建议提案完成情况",
+      "value1": 0.993,
+      "value2": 0.007,
+      "value3": 0
+    }
+  ],
+  "politics_01": [
+    {
+      "name": "浙政钉注册人数",
+      "value": 3470
     },
     {
-      "id": 92,
-      "county": "海南省 海口市 秀英区",
-      "address": "又正马目积没越后每需量有布术给真组持。",
-      "nhName": "艮园社区",
-      "communityName": "珠碧苑小区",
-      "nhContact": "锺涛",
-      "nhPhone": "15842431235",
-      "propertyName": "绿城物业",
-      "createTime": "2009-07-29 14:57:15"
+      "name": "浙政钉激活率",
+      "value": 1
     },
     {
-      "id": 93,
-      "county": "海外 海外 -",
-      "address": "天称价没确许光件员果江点快你史油断。",
-      "nhName": "体东社区",
-      "communityName": "潮鸣苑小区",
-      "nhContact": "丁超",
-      "nhPhone": "13245674652",
-      "propertyName": "南都物业",
-      "createTime": "1989-04-09 22:12:14"
+      "name": "浙政钉完整率",
+      "value": 1
     },
     {
-      "id": 94,
-      "county": "贵州省 铜仁市 其它区",
-      "address": "争先法们学约安那专不里号火又。",
-      "nhName": "东河社区",
-      "communityName": "红枫苑小区",
-      "nhContact": "陈敏",
-      "nhPhone": "15543575855",
-      "propertyName": "卓盛物业",
-      "createTime": "2017-11-11 20:38:15"
+      "name": "本周日均活跃率",
+      "value": 0.7997
+    }
+  ],
+  "politics_02": [
+    {
+      "name": "不动产登记",
+      "value": 702
     },
     {
-      "id": 95,
-      "county": "吉林省 辽源市 西安区",
-      "address": "术并设再号气理土家白程认矿。",
-      "nhName": "小天竺社区",
-      "communityName": "醋坊新村小区",
-      "nhContact": "曾洋",
-      "nhPhone": "18847976650",
-      "propertyName": "万科物业",
-      "createTime": "2007-05-01 13:51:18"
+      "name": "即办事项数量",
+      "value": 1646
     },
     {
-      "id": 96,
-      "county": "陕西省 榆林市 绥德县",
-      "address": "称总备头市把号般直各建而日员料老。",
-      "nhName": "所巷社区",
-      "communityName": "知足弄小区",
-      "nhContact": "曹娜",
-      "nhPhone": "15874331873",
-      "propertyName": "万科物业",
-      "createTime": "1984-07-09 08:04:13"
+      "name": "医保办理",
+      "value": 640
     },
     {
-      "id": 97,
-      "county": "浙江省 台州市 天台县",
-      "address": "江报证政论象往该我除和百究关转党己。",
-      "nhName": "知足弄社区",
-      "communityName": "红枫苑小区",
-      "nhContact": "蒋平",
-      "nhPhone": "15693184436",
-      "propertyName": "盛全物业",
-      "createTime": "1987-11-29 18:46:44"
+      "name": "公积金办理",
+      "value": 984
     },
     {
-      "id": 98,
-      "county": "甘肃省 陇南市 徽县",
-      "address": "每火提维器地素说山展证能决听年。",
-      "nhName": "知足弄社区",
-      "communityName": "建国公寓小区",
-      "nhContact": "邹敏",
-      "nhPhone": "18535677545",
-      "propertyName": "彩虹物业",
-      "createTime": "1990-05-10 13:21:30"
+      "name": "市民卡办理",
+      "value": 712
     },
     {
-      "id": 99,
-      "county": "山西省 忻州市 神池县",
-      "address": "已离个志你单高万据六学京资金。",
-      "nhName": "东河社区",
-      "communityName": "马家弄小区",
-      "nhContact": "杨芳",
-      "nhPhone": "18215247813",
-      "propertyName": "卓盛物业",
-      "createTime": "2005-10-20 23:21:52"
+      "name": "流动人口办理",
+      "value": 1987
+    }
+  ],
+  "politics_03": [
+    {
+      "name": "跑零次",
+      "value1": 1654,
+      "unit1": "项",
+      "value2": 1,
+      "unit2": "名次"
     },
     {
-      "id": 100,
-      "county": "重庆 重庆市 九龙坡区",
-      "address": "般运表志己象指具清工近都条集长快全。",
-      "nhName": "东园社区",
-      "communityName": "醋坊新村小区",
-      "nhContact": "龙娟",
-      "nhPhone": "13666387750",
-      "propertyName": "万科物业",
-      "createTime": "1978-05-27 02:21:33"
+      "name": "网上办",
+      "value1": 1646,
+      "unit1": "项",
+      "value2": 1,
+      "unit2": "名次"
+    },
+    {
+      "name": "一证通办",
+      "value1": 2230,
+      "unit1": "项",
+      "value2": 1,
+      "unit2": "名次"
+    },
+    {
+      "name": "材料电子化",
+      "value1": 7312,
+      "unit1": "项",
+      "value2": 5,
+      "unit2": "名次"
+    },
+    {
+      "name": "承诺期限平均值",
+      "value1": 2301,
+      "unit1": "项",
+      "value2": 3,
+      "unit2": "名次"
+    },
+    {
+      "name": "掌上办",
+      "value1": 1646,
+      "unit1": "项",
+      "value2": 4,
+      "unit2": "名次"
+    },
+    {
+      "name": "即办事项",
+      "value1": 1625,
+      "unit1": "项",
+      "value2": 3,
+      "unit2": "名次"
+    }
+  ],
+  "culture": [
+    {
+      "name": "太阳马戏本月人数",
+      "value": "43782",
+      "unit": "人"
+    },
+    {
+      "name": "本月20秒入园",
+      "value": "7842",
+      "unit": "次"
+    },
+    {
+      "name": "新天地本月客流",
+      "value": "984762",
+      "unit": "人"
+    },
+    {
+      "name": "本月30秒入住",
+      "value": "5490",
+      "unit": ""
+    },
+    {
+      "name": "文化活跃度",
+      "value": "94.5",
+      "unit": "%"
+    }
+  ],
+  "culture_01": [
+    {
+      "name": "参与人数",
+      "value": 2819
+    },
+    {
+      "name": "诗歌",
+      "value": 0.35
+    },
+    {
+      "name": "戏曲",
+      "value": 0.25
+    },
+    {
+      "name": "唱歌",
+      "value": 0.15
+    },
+    {
+      "name": "舞蹈",
+      "value": 0.02
+    }
+  ],
+  "culture_02": [
+    {
+      "name": "幼儿园",
+      "value1": 38,
+      "value2": 0.9
+    },
+    {
+      "name": "小学",
+      "value1": 17,
+      "value2": 0.95
+    },
+    {
+      "name": "初中",
+      "value1": 13,
+      "value2": 0.6
+    },
+    {
+      "name": "高中",
+      "value1": 5,
+      "value2": 0.95
+    },
+    {
+      "name": "大学",
+      "value1": 1,
+      "value2": 0.5
+    }
+  ],
+  "culture_03": [
+    {
+      "name": "1月",
+      "value1": 1391,
+      "value2": 1923,
+      "value3": 588,
+      "value4": 119
+    },
+    {
+      "name": "2月",
+      "value1": 413,
+      "value2": 1198,
+      "value3": 671,
+      "value4": 204
+    },
+    {
+      "name": "3月",
+      "value1": 510,
+      "value2": 322,
+      "value3": 219,
+      "value4": 1411
+    },
+    {
+      "name": "4月",
+      "value1": 1876,
+      "value2": 1270,
+      "value3": 882,
+      "value4": 873
+    },
+    {
+      "name": "5月",
+      "value1": 1193,
+      "value2": 1944,
+      "value3": 675,
+      "value4": 1509
+    },
+    {
+      "name": "6月",
+      "value1": 743,
+      "value2": 539,
+      "value3": 597,
+      "value4": 1191
+    },
+    {
+      "name": "7月",
+      "value1": 979,
+      "value2": 1514,
+      "value3": 1288,
+      "value4": 724
+    },
+    {
+      "name": "8月",
+      "value1": 879,
+      "value2": 368,
+      "value3": 191,
+      "value4": 1895
+    },
+    {
+      "name": "9月",
+      "value1": 799,
+      "value2": 1161,
+      "value3": 508,
+      "value4": 87
+    },
+    {
+      "name": "10月",
+      "value1": 1942,
+      "value2": 9,
+      "value3": 124,
+      "value4": 1171
+    },
+    {
+      "name": "11月",
+      "value1": 1548,
+      "value2": 1239,
+      "value3": 1922,
+      "value4": 288
+    },
+    {
+      "name": "12月",
+      "value1": 1801,
+      "value2": 1203,
+      "value3": 58,
+      "value4": 1778
+    }
+  ],
+  "culture_04": [
+    {
+      "name": "7月",
+      "value1": 600,
+      "value2": 450,
+      "value3": 200,
+      "value4": 300
+    },
+    {
+      "name": "8月",
+      "value1": 1050,
+      "value2": 850,
+      "value3": 450,
+      "value4": 550
+    },
+    {
+      "name": "9月",
+      "value1": 2300,
+      "value2": 1850,
+      "value3": 650,
+      "value4": 850
+    }
+  ],
+  "society": [],
+  "society_platform": [
+    {
+      "name": "今日事件总数",
+      "value": "10,229"
+    },
+    {
+      "name": "今日事件处置数",
+      "value": "6,267"
+    },
+    {
+      "name": "今日平安巡查",
+      "value": "632"
+    }
+  ],
+  "society_elevator": [
+    {
+      "name": "电梯数",
+      "value": "131,395"
+    },
+    {
+      "name": "今日困人事件",
+      "value": "0"
+    },
+    {
+      "name": "服务事件",
+      "value": "11"
+    }
+  ],
+  "society_chart": [
+    {
+      "name": "周一",
+      "value": 400,
+      "unit": "件"
+    },
+    {
+      "name": "周二",
+      "value": 300,
+      "unit": "件"
+    },
+    {
+      "name": "周三",
+      "value": 200,
+      "unit": "件"
+    },
+    {
+      "name": "周四",
+      "value": 450,
+      "unit": "件"
+    },
+    {
+      "name": "周五",
+      "value": 150,
+      "unit": "件"
+    },
+    {
+      "name": "周六",
+      "value": 200,
+      "unit": "件"
+    },
+    {
+      "name": "周日",
+      "value": 250,
+      "unit": "件"
+    }
+  ],
+  "society_parking": [
+    {
+      "name": "开通服务库",
+      "value": "12"
+    },
+    {
+      "name": "开通泊位",
+      "value": "249"
+    },
+    {
+      "name": "先离场后付费次数",
+      "value": "195,479"
+    }
+  ],
+  "society_01": [
+    {
+      "name": "综治工作",
+      "value1": 1,
+      "value2": 235
+    },
+    {
+      "name": "市场监管",
+      "value1": 1,
+      "value2": 189
+    },
+    {
+      "name": "综合执法",
+      "value1": 1,
+      "value2": 260
+    },
+    {
+      "name": "便民服务",
+      "value1": 1,
+      "value2": 870
+    }
+  ],
+  "society_02": [
+    {
+      "name": "理发",
+      "value": 7394
+    },
+    {
+      "name": "家政服务",
+      "value": 4302
+    },
+    {
+      "name": "上门维修",
+      "value": 397
+    },
+    {
+      "name": "其他",
+      "value": 330
+    }
+  ],
+  "society_03": [
+    {
+      "name": "已审核照护机构",
+      "value": 2,
+      "unit": ""
+    },
+    {
+      "name": "申请中照护机构",
+      "value": 17,
+      "unit": ""
+    }
+  ],
+  "ecology": [
+    {
+      "name": "森林覆盖率",
+      "value": 0.3738,
+      "unit": ""
+    },
+    {
+      "name": "垃圾处理率",
+      "value": 1,
+      "unit": ""
+    },
+    {
+      "name": "PM2.5浓度",
+      "value": 36.3,
+      "unit": "微克/立方米"
+    },
+    {
+      "name": "交接断面水质等级",
+      "value": "优秀",
+      "unit": ""
+    },
+    {
+      "name": "空气优良率",
+      "value": 0.7565,
+      "unit": ""
+    }
+  ],
+  "ecology_01": [
+    {
+      "name": "天水",
+      "value": 0.06
+    },
+    {
+      "name": "朝晖",
+      "value": 0.08
+    },
+    {
+      "name": "潮鸣",
+      "value": 0.12
+    },
+    {
+      "name": "长庆",
+      "value": 0.2
+    },
+    {
+      "name": "武林",
+      "value": 0.2
+    },
+    {
+      "name": "石桥",
+      "value": 0.2
+    },
+    {
+      "name": "文晖",
+      "value": 0.12
+    },
+    {
+      "name": "东新",
+      "value": 0.4
+    },
+    {
+      "name": "其他区域",
+      "value": 0.1
+    }
+  ],
+  "ecology_02": [
+    {
+      "name": "一月",
+      "value1": 12,
+      "value2": 13,
+      "unit": "微克/立方米"
+    },
+    {
+      "name": "二月",
+      "value1": 11,
+      "value2": 11,
+      "unit": "微克/立方米"
+    },
+    {
+      "name": "三月",
+      "value1": 10,
+      "value2": 12,
+      "unit": "微克/立方米"
+    },
+    {
+      "name": "四月",
+      "value1": 11,
+      "value2": 13,
+      "unit": "微克/立方米"
+    },
+    {
+      "name": "五月",
+      "value1": 12,
+      "value2": 12,
+      "unit": "微克/立方米"
+    },
+    {
+      "name": "六月",
+      "value1": 11,
+      "value2": 12,
+      "unit": "微克/立方米"
+    },
+    {
+      "name": "七月",
+      "value1": 13,
+      "value2": 15,
+      "unit": "微克/立方米"
+    },
+    {
+      "name": "八月",
+      "value1": 12,
+      "value2": 11,
+      "unit": "微克/立方米"
+    },
+    {
+      "name": "九月",
+      "value1": 13,
+      "value2": 14,
+      "unit": "微克/立方米"
+    },
+    {
+      "name": "十月",
+      "value1": 12,
+      "value2": 14,
+      "unit": "微克/立方米"
+    },
+    {
+      "name": "十一月",
+      "value1": 14,
+      "value2": 16,
+      "unit": "微克/立方米"
+    },
+    {
+      "name": "十二月",
+      "value1": 11,
+      "value2": 13,
+      "unit": "微克/立方米"
+    }
+  ],
+  "ecology_03": [
+    {
+      "name": "生活污染水源",
+      "value": 0.3597
+    },
+    {
+      "name": "工业污水",
+      "value": 0.3824
+    },
+    {
+      "name": "径疏污水",
+      "value": 0.2577
+    }
+  ],
+  "ecology_04": [
+    {
+      "name": "周一",
+      "value": 2.8,
+      "unit": "米"
+    },
+    {
+      "name": "周二",
+      "value": 2.5,
+      "unit": "米"
+    },
+    {
+      "name": "周三",
+      "value": 2.9,
+      "unit": "米"
+    },
+    {
+      "name": "周四",
+      "value": 3.1,
+      "unit": "米"
+    },
+    {
+      "name": "周五",
+      "value": 3.05,
+      "unit": "米"
+    },
+    {
+      "name": "周六",
+      "value": 2.7,
+      "unit": "米"
+    },
+    {
+      "name": "周日",
+      "value": 3.2,
+      "unit": "米"
+    },
+    {
+      "name": "基准线",
+      "value": 2.9,
+      "unit": "米"
+    }
+  ],
+  "center_01": [
+    {
+      "name": "辖区老旧小区数量",
+      "value": "181",
+      "unit": "个"
+    },
+    {
+      "name": "当前正在改造",
+      "value": "5",
+      "unit": "个"
+    },
+    {
+      "name": "年内改造目标数",
+      "value": "5",
+      "unit": "个"
+    },
+    {
+      "name": "三年行动计划",
+      "value": "93",
+      "unit": "个"
+    }
+  ],
+  "center_02": [
+    {
+      "name": "亿元楼宇数",
+      "value": "19",
+      "unit": "栋"
+    },
+    {
+      "name": "重点企业",
+      "value": "1299",
+      "unit": "家"
+    },
+    {
+      "name": "可用招商面积",
+      "value": "33.5",
+      "unit": "万方"
+    },
+    {
+      "name": "招商楼宇数量",
+      "value": "89",
+      "unit": "栋"
+    }
+  ],
+  "center_03": [
+    {
+      "name": "金融产业",
+      "value": "137.62",
+      "unit": "亿"
+    },
+    {
+      "name": "商贸产业",
+      "value": "100.21",
+      "unit": "亿"
+    },
+    {
+      "name": "健康产业",
+      "value": "68.12",
+      "unit": "亿"
+    },
+    {
+      "name": "文化创意产业",
+      "value": "180.39",
+      "unit": "亿"
+    },
+    {
+      "name": "数字经济产业",
+      "value": "8.4",
+      "unit": "亿"
+    }
+  ],
+  "center_04": [
+    {
+      "name": "市级及以上媒体报道量",
+      "value": "311",
+      "unit": "次"
+    },
+    {
+      "name": "下城发布微信平台阅读量",
+      "value": "12.3",
+      "unit": "万"
+    },
+    {
+      "name": "下城发布微博转评赞数",
+      "value": "3167",
+      "unit": "次"
+    }
+  ],
+  "center_05": [
+    {
+      "name": "出让金额",
+      "value": "144",
+      "unit": "亿"
+    },
+    {
+      "name": "土地面积",
+      "value": "384",
+      "unit": "亩"
+    },
+    {
+      "name": "经营性用地储蓄",
+      "value": "340",
+      "unit": "亩"
     }
   ]
 }
